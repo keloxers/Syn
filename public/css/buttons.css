@@ -554,65 +554,65 @@
   box-shadow: none;
 }
 .pi-btn-base {
-  background: #e86343;
-  border: 1px solid #dd5437;
+  background: #18ba60;
+  border: 1px solid #10a95b;
   color: #fff !important;
-  -webkit-box-shadow: inset 0 1px 0 #eb6f4b;
-  -moz-box-shadow: inset 0 1px 0 #eb6f4b;
-  box-shadow: inset 0 1px 0 #eb6f4b;
+  -webkit-box-shadow: inset 0 1px 0 #1bc26c;
+  -moz-box-shadow: inset 0 1px 0 #1bc26c;
+  box-shadow: inset 0 1px 0 #1bc26c;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
 }
 .pi-btn-base:hover {
-  background: #d34a35;
-  border: 1px solid #c63d2c;
+  background: #099555;
+  border: 1px solid #088b4c;
   color: #fff !important;
-  -webkit-box-shadow: inset 0 1px 0 #d8533b;
-  -moz-box-shadow: inset 0 1px 0 #d8533b;
-  box-shadow: inset 0 1px 0 #d8533b;
+  -webkit-box-shadow: inset 0 1px 0 #0aa05e;
+  -moz-box-shadow: inset 0 1px 0 #0aa05e;
+  box-shadow: inset 0 1px 0 #0aa05e;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
 }
 .pi-btn-base.pi-btn-no-border {
-  border-color: #e86343;
-  border-top-color: #ed7e60;
+  border-color: #18ba60;
+  border-top-color: #22d686;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
 }
 .pi-btn-base.pi-btn-no-border:hover {
-  border-color: #d34a35;
-  border-top-color: #db634e;
+  border-color: #099555;
+  border-top-color: #0cb56f;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
 }
 .pi-btn-base-2 {
-  background: #c93f25;
-  border: 1px solid #bf3821;
+  background: #048949;
+  border: 1px solid #037e47;
   color: #fff !important;
-  -webkit-box-shadow: inset 0 1px 0 #cd4428;
-  -moz-box-shadow: inset 0 1px 0 #cd4428;
-  box-shadow: inset 0 1px 0 #cd4428;
+  -webkit-box-shadow: inset 0 1px 0 #04924f;
+  -moz-box-shadow: inset 0 1px 0 #04924f;
+  box-shadow: inset 0 1px 0 #04924f;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
 }
 .pi-btn-base-2:hover {
-  background: #b92f21;
-  border: 1px solid #ae2a1d;
+  background: #007844;
+  border: 1px solid #006e3c;
   color: #fff !important;
-  -webkit-box-shadow: inset 0 1px 0 #be3324;
-  -moz-box-shadow: inset 0 1px 0 #be3324;
-  box-shadow: inset 0 1px 0 #be3324;
+  -webkit-box-shadow: inset 0 1px 0 #008149;
+  -moz-box-shadow: inset 0 1px 0 #008149;
+  box-shadow: inset 0 1px 0 #008149;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
 }
 .pi-btn-base-2.pi-btn-no-border {
-  border-color: #c93f25;
-  border-top-color: #d45c40;
+  border-color: #048949;
+  border-top-color: #059b54;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
 }
 .pi-btn-base-2.pi-btn-no-border:hover {
-  border-color: #b92f21;
-  border-top-color: #c64838;
+  border-color: #007844;
+  border-top-color: #009052;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;

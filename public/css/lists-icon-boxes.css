@@ -489,7 +489,7 @@
   color: #4a5058;
 }
 .pi-section-white .pi-list-menu li a:hover {
-  color: #e86343;
+  color: #18ba60;
   background: #f8fafa;
 }
 .pi-section-grey li .pi-bullet-icon,
@@ -511,7 +511,7 @@
   color: #4a5058;
 }
 .pi-section-grey .pi-list-menu li a:hover {
-  color: #e86343;
+  color: #18ba60;
   background: #fafbfc;
 }
 .pi-section-base li .pi-bullet-icon,
@@ -519,7 +519,7 @@
   color: #ffffff;
 }
 .pi-section-base .pi-list-dashed li {
-  border-bottom: 1px dashed #f48567;
+  border-bottom: 1px dashed #2dc372;
 }
 .pi-section-base .pi-list-dashed li:last-child {
   border-bottom: none;
@@ -527,14 +527,14 @@
 .pi-section-base .pi-list-icons-right-open li:after,
 .pi-section-base .pi-list-icons-news li:after,
 .pi-section-base .pi-list-icons-right-dir li:after {
-  color: #faa195;
+  color: #92ca9b;
 }
 .pi-section-base .pi-list-menu li a {
   color: #ffffff;
 }
 .pi-section-base .pi-list-menu li a:hover {
   color: #ffffff;
-  background: #e45a3a;
+  background: #13a956;
 }
 .pi-section-dark li .pi-bullet-icon,
 .pi-section-dark li .pi-bullet-icon-img {
@@ -555,7 +555,7 @@
   color: #abb3b9;
 }
 .pi-section-dark .pi-list-menu li a:hover {
-  color: #e86343;
+  color: #18ba60;
   background: #32363c;
 }
 .pi-section-parallax li .pi-bullet-icon,
@@ -577,7 +577,7 @@
   color: #abb3b9;
 }
 .pi-section-parallax .pi-list-menu li a:hover {
-  color: #e86343;
+  color: #18ba60;
   background: #32363c;
 }
 .pi-bullets-circle li .pi-bullet-icon,
@@ -589,7 +589,7 @@
 }
 .pi-bullets-base li .pi-bullet-icon,
 .pi-bullets-base li .pi-bullet-icon-img {
-  background: #F06C4C;
+  background: #1DC066;
   color: #fff;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
 }
@@ -615,9 +615,9 @@
 .pi-bullets-contur-base li .pi-bullet-icon,
 .pi-bullets-contur-base li .pi-bullet-icon-img {
   background: none;
-  color: #F06C4C;
+  color: #1DC066;
   text-shadow: none;
-  border-color: #F06C4C;
+  border-color: #1DC066;
 }
 .pi-icon-box .pi-icon-box-icon,
 .pi-icon-box-vertical .pi-icon-box-icon {
@@ -625,7 +625,7 @@
 }
 .pi-icon-box .pi-icon-box-icon.pi-icon-box-icon-base,
 .pi-icon-box-vertical .pi-icon-box-icon.pi-icon-box-icon-base {
-  color: #F06C4C;
+  color: #1DC066;
 }
 .pi-icon-box .pi-icon-box-icon.pi-icon-box-icon-dark,
 .pi-icon-box-vertical .pi-icon-box-icon.pi-icon-box-icon-dark {
@@ -646,7 +646,7 @@
 .pi-icon-box-vertical .pi-icon-box-icon-circle.pi-icon-box-icon-base,
 .pi-icon-box .pi-icon-box-icon-square.pi-icon-box-icon-base,
 .pi-icon-box-vertical .pi-icon-box-icon-square.pi-icon-box-icon-base {
-  background: #F06C4C;
+  background: #1DC066;
   color: #fff;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
   -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07);
@@ -658,7 +658,7 @@
 .pi-icon-box .pi-icon-box-icon-square.pi-icon-box-icon-dark,
 .pi-icon-box-vertical .pi-icon-box-icon-square.pi-icon-box-icon-dark {
   background: #2e343c;
-  color: #F06C4C;
+  color: #1DC066;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
   -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07);
   -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07);
@@ -669,7 +669,7 @@
 .pi-icon-box .pi-icon-box-icon-square.pi-icon-box-icon-white,
 .pi-icon-box-vertical .pi-icon-box-icon-square.pi-icon-box-icon-white {
   background: #fff;
-  color: #F06C4C;
+  color: #1DC066;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -687,8 +687,8 @@
 .pi-icon-box .pi-icon-box-icon-square.pi-icon-box-icon-contur-base,
 .pi-icon-box-vertical .pi-icon-box-icon-square.pi-icon-box-icon-contur-base {
   background: none;
-  color: #F06C4C;
-  border-color: #F06C4C;
+  color: #1DC066;
+  border-color: #1DC066;
 }
 .pi-icon-box .pi-icon-box-icon-circle.pi-icon-box-icon-contur-dark,
 .pi-icon-box-vertical .pi-icon-box-icon-circle.pi-icon-box-icon-contur-dark,
@@ -710,61 +710,61 @@
   box-shadow: none;
 }
 .pi-icon-box-hover:hover .pi-icon-box-icon {
-  color: #F06C4C;
+  color: #1DC066;
 }
 .pi-icon-box-hover:hover .pi-icon-box-icon.pi-icon-box-icon-base {
-  color: #F6914E;
+  color: #f65f37;
 }
 .pi-icon-box-hover:hover .pi-icon-box-icon.pi-icon-box-icon-dark {
-  color: #F06C4C;
+  color: #1DC066;
 }
 .pi-icon-box-hover:hover .pi-icon-box-icon.pi-icon-box-icon-white {
-  color: #F06C4C;
+  color: #1DC066;
 }
 .pi-icon-box-hover:hover .pi-icon-box-icon-circle,
 .pi-icon-box-hover:hover .pi-icon-box-icon-square {
-  background: #F06C4C;
+  background: #1DC066;
   color: #fff;
 }
 .pi-icon-box-hover:hover .pi-icon-box-icon-circle.pi-icon-box-icon-base,
 .pi-icon-box-hover:hover .pi-icon-box-icon-square.pi-icon-box-icon-base {
-  background: #F6914E;
+  background: #f65f37;
   color: #fff;
 }
 .pi-icon-box-hover:hover .pi-icon-box-icon-circle.pi-icon-box-icon-dark,
 .pi-icon-box-hover:hover .pi-icon-box-icon-square.pi-icon-box-icon-dark,
 .pi-icon-box-hover:hover .pi-icon-box-icon-circle.pi-icon-box-icon-white,
 .pi-icon-box-hover:hover .pi-icon-box-icon-square.pi-icon-box-icon-white {
-  background: #F06C4C;
+  background: #1DC066;
   color: #fff;
 }
 .pi-icon-box-hover:hover .pi-icon-box-icon-circle.pi-icon-box-icon-contur,
 .pi-icon-box-hover:hover .pi-icon-box-icon-square.pi-icon-box-icon-contur {
   background: none;
-  color: #F06C4C;
-  border-color: #F06C4C;
+  color: #1DC066;
+  border-color: #1DC066;
 }
 .pi-icon-box-hover:hover .pi-icon-box-icon-circle.pi-icon-box-icon-contur-base,
 .pi-icon-box-hover:hover .pi-icon-box-icon-square.pi-icon-box-icon-contur-base {
   background: none;
-  color: #F6914E;
-  border-color: #F6914E;
+  color: #f65f37;
+  border-color: #f65f37;
 }
 .pi-icon-box-hover:hover .pi-icon-box-icon-circle.pi-icon-box-icon-contur-dark,
 .pi-icon-box-hover:hover .pi-icon-box-icon-square.pi-icon-box-icon-contur-dark {
   background: none;
-  color: #F06C4C;
-  border-color: #F06C4C;
+  color: #1DC066;
+  border-color: #1DC066;
 }
 .pi-icon-box-hover:hover .pi-icon-box-icon-circle.pi-icon-box-icon-contur-white,
 .pi-icon-box-hover:hover .pi-icon-box-icon-square.pi-icon-box-icon-contur-white {
   background: none;
-  color: #F06C4C;
-  border-color: #F06C4C;
+  color: #1DC066;
+  border-color: #1DC066;
 }
 .pi-list-icons-dot li:after,
 .pi-list-icons-ok li:after,
 .pi-list-icons-link li:after,
 .pi-list-icons-help li:after {
-  color: #F06C4C;
+  color: #1DC066;
 }

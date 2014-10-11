@@ -508,9 +508,9 @@ select.form-control {
   border-color: #dde1e1;
   border-top-color: #dde1e1;
   color: #afb8bb;
-  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.03);
-  -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.03);
-  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.03);
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.03);
+  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.03);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.03);
 }
 .pi-section-white .form-control:hover {
   background: #f8fafa;
@@ -523,8 +523,8 @@ select.form-control {
 }
 .pi-section-white .form-control:focus {
   background: #ffffff;
-  border-color: #12c3cc;
-  border-top-color: #12c3cc;
+  border-color: #33bb7d;
+  border-top-color: #33bb7d;
   color: #939fa4;
   -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.15);
@@ -551,9 +551,9 @@ select.form-control {
   border-color: #dde1e1;
   border-top-color: #dde1e1;
   color: #afb8bb;
-  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.03);
-  -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.03);
-  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.03);
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.03);
+  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.03);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.03);
   -webkit-transition: all 0.2s ease-in-out 0.1s ease-in-out 0s;
   -moz-transition: all 0.2s ease-in-out 0.1s ease-in-out 0s;
   -ms-transition: all 0.2s ease-in-out 0.1s ease-in-out 0s;
@@ -579,7 +579,7 @@ select.form-control {
 }
 .stylish-select .pi-section-white .newListSelFocus {
   background: #ffffff;
-  border-color: #12c3cc;
+  border-color: #33bb7d;
   -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.15);
@@ -592,7 +592,7 @@ select.form-control {
   text-shadow: 0 1px 0 #ffffff;
 }
 .stylish-select .pi-section-white ul.newList {
-  border-color: #12c3cc;
+  border-color: #33bb7d;
   -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
   -moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
@@ -697,9 +697,9 @@ select.form-control {
   border-color: #dde1e1;
   border-top-color: #dde1e1;
   color: #afb8bb;
-  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.03);
-  -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.03);
-  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.03);
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.03);
+  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.03);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.03);
 }
 .pi-section-grey .form-control:hover {
   background: #ffffff;
@@ -712,8 +712,8 @@ select.form-control {
 }
 .pi-section-grey .form-control:focus {
   background: #ffffff;
-  border-color: #12c3cc;
-  border-top-color: #12c3cc;
+  border-color: #33bb7d;
+  border-top-color: #33bb7d;
   color: #939fa4;
   -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.15);
@@ -740,9 +740,9 @@ select.form-control {
   border-color: #dde1e1;
   border-top-color: #dde1e1;
   color: #afb8bb;
-  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.03);
-  -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.03);
-  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.03);
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.03);
+  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.03);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.03);
   -webkit-transition: all 0.2s ease-in-out 0.1s ease-in-out 0s;
   -moz-transition: all 0.2s ease-in-out 0.1s ease-in-out 0s;
   -ms-transition: all 0.2s ease-in-out 0.1s ease-in-out 0s;
@@ -768,7 +768,7 @@ select.form-control {
 }
 .stylish-select .pi-section-grey .newListSelFocus {
   background: #ffffff;
-  border-color: #12c3cc;
+  border-color: #33bb7d;
   -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.15);
@@ -781,7 +781,7 @@ select.form-control {
   text-shadow: 0 1px 0 #ffffff;
 }
 .stylish-select .pi-section-grey ul.newList {
-  border-color: #12c3cc;
+  border-color: #33bb7d;
   -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
   -moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
@@ -806,7 +806,7 @@ select.form-control {
   color: #4d5258;
 }
 .pi-section-base .form-control:-moz-placeholder {
-  color: #cebaba;
+  color: #93bdaa;
   -webkit-transition: all 0.1s ease-in-out 0s;
   -moz-transition: all 0.1s ease-in-out 0s;
   -ms-transition: all 0.1s ease-in-out 0s;
@@ -814,7 +814,7 @@ select.form-control {
   transition: all 0.1s ease-in-out 0s;
 }
 .pi-section-base .form-control::-moz-placeholder {
-  color: #cebaba;
+  color: #93bdaa;
   -webkit-transition: all 0.1s ease-in-out 0s;
   -moz-transition: all 0.1s ease-in-out 0s;
   -ms-transition: all 0.1s ease-in-out 0s;
@@ -822,7 +822,7 @@ select.form-control {
   transition: all 0.1s ease-in-out 0s;
 }
 .pi-section-base .form-control:-ms-input-placeholder {
-  color: #cebaba;
+  color: #93bdaa;
   -webkit-transition: all 0.1s ease-in-out 0s;
   -moz-transition: all 0.1s ease-in-out 0s;
   -ms-transition: all 0.1s ease-in-out 0s;
@@ -830,7 +830,7 @@ select.form-control {
   transition: all 0.1s ease-in-out 0s;
 }
 .pi-section-base .form-control::-webkit-input-placeholder {
-  color: #cebaba;
+  color: #93bdaa;
   -webkit-transition: all 0.1s ease-in-out 0s;
   -moz-transition: all 0.1s ease-in-out 0s;
   -ms-transition: all 0.1s ease-in-out 0s;
@@ -838,7 +838,7 @@ select.form-control {
   transition: all 0.1s ease-in-out 0s;
 }
 .pi-section-base .form-control:hover:-moz-placeholder {
-  color: #cebaba;
+  color: #93bdaa;
   -webkit-transition: all 0.1s ease-in-out 0s;
   -moz-transition: all 0.1s ease-in-out 0s;
   -ms-transition: all 0.1s ease-in-out 0s;
@@ -846,7 +846,7 @@ select.form-control {
   transition: all 0.1s ease-in-out 0s;
 }
 .pi-section-base .form-control:hover::-moz-placeholder {
-  color: #cebaba;
+  color: #93bdaa;
   -webkit-transition: all 0.1s ease-in-out 0s;
   -moz-transition: all 0.1s ease-in-out 0s;
   -ms-transition: all 0.1s ease-in-out 0s;
@@ -854,7 +854,7 @@ select.form-control {
   transition: all 0.1s ease-in-out 0s;
 }
 .pi-section-base .form-control:hover:-ms-input-placeholder {
-  color: #cebaba;
+  color: #93bdaa;
   -webkit-transition: all 0.1s ease-in-out 0s;
   -moz-transition: all 0.1s ease-in-out 0s;
   -ms-transition: all 0.1s ease-in-out 0s;
@@ -862,7 +862,7 @@ select.form-control {
   transition: all 0.1s ease-in-out 0s;
 }
 .pi-section-base .form-control:hover::-webkit-input-placeholder {
-  color: #cebaba;
+  color: #93bdaa;
   -webkit-transition: all 0.1s ease-in-out 0s;
   -moz-transition: all 0.1s ease-in-out 0s;
   -ms-transition: all 0.1s ease-in-out 0s;
@@ -870,40 +870,40 @@ select.form-control {
   transition: all 0.1s ease-in-out 0s;
 }
 .pi-section-base .form-control:focus:-moz-placeholder {
-  color: #8c989d;
+  color: #7ea88b;
 }
 .pi-section-base .form-control:focus::-moz-placeholder {
-  color: #8c989d;
+  color: #7ea88b;
 }
 .pi-section-base .form-control:focus:-ms-input-placeholder {
-  color: #8c989d;
+  color: #7ea88b;
 }
 .pi-section-base .form-control:focus::-webkit-input-placeholder {
-  color: #8c989d;
+  color: #7ea88b;
 }
 .pi-section-base .form-control {
-  background: #fef1ec;
-  border-color: #c93f25;
-  border-top-color: #c93f25;
-  color: #cebaba;
+  background: #e9f7ea;
+  border-color: #088d49;
+  border-top-color: #088d49;
+  color: #93bdaa;
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
 }
 .pi-section-base .form-control:hover {
-  background: #fef1ec;
-  border-color: #c93f25;
-  border-top-color: #c93f25;
-  color: #cebaba;
+  background: #e9f7ea;
+  border-color: #088d49;
+  border-top-color: #088d49;
+  color: #93bdaa;
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
 }
 .pi-section-base .form-control:focus {
   background: #ffffff;
-  border-color: #c93f25;
-  border-top-color: #c93f25;
-  color: #8c989d;
+  border-color: #088d49;
+  border-top-color: #088d49;
+  color: #7ea88b;
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25);
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25);
@@ -913,11 +913,11 @@ select.form-control {
   color: #2e343c;
 }
 .pi-section-base .pi-input-with-icon .pi-input-icon {
-  color: #cebaba;
+  color: #93bdaa;
   text-shadow: none;
 }
 .pi-section-base .pi-input-with-icon:hover .pi-input-icon {
-  color: #cebaba;
+  color: #93bdaa;
   text-shadow: none;
 }
 .pi-section-base .pi-input-with-icon.pi-form-control-focused .pi-input-icon {
@@ -925,10 +925,10 @@ select.form-control {
   text-shadow: none;
 }
 .stylish-select .pi-section-base .newListSelected {
-  background: #fef1ec;
-  border-color: #c93f25;
-  border-top-color: #c93f25;
-  color: #cebaba;
+  background: #e9f7ea;
+  border-color: #088d49;
+  border-top-color: #088d49;
+  color: #93bdaa;
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
@@ -939,7 +939,7 @@ select.form-control {
   transition: all 0.2s ease-in-out 0.1s ease-in-out 0s;
 }
 .stylish-select .pi-section-base .pi-select-icon {
-  color: #cebaba;
+  color: #93bdaa;
   text-shadow: none;
   -webkit-transition: color 0.2s ease-in-out 0.1s ease-in-out 0s;
   -moz-transition: color 0.2s ease-in-out 0.1s ease-in-out 0s;
@@ -948,16 +948,16 @@ select.form-control {
   transition: color 0.2s ease-in-out 0.1s ease-in-out 0s;
 }
 .stylish-select .pi-section-base .newListSelHover {
-  background: #fef1ec;
-  border-color: #c93f25;
-  border-top-color: #c93f25;
+  background: #e9f7ea;
+  border-color: #088d49;
+  border-top-color: #088d49;
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
 }
 .stylish-select .pi-section-base .newListSelFocus {
   background: #ffffff;
-  border-color: #c93f25;
+  border-color: #088d49;
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25);
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25);
@@ -970,7 +970,7 @@ select.form-control {
   text-shadow: none;
 }
 .stylish-select .pi-section-base ul.newList {
-  border-color: #c93f25;
+  border-color: #088d49;
   -webkit-box-shadow: 0 2px 15px rgba(0, 0, 0, 0.05);
   -moz-box-shadow: 0 2px 15px rgba(0, 0, 0, 0.05);
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.05);
@@ -1090,8 +1090,8 @@ select.form-control {
 }
 .pi-section-dark .form-control:focus {
   background: #ffffff;
-  border-color: #12c3cc;
-  border-top-color: #12c3cc;
+  border-color: #33bb7d;
+  border-top-color: #33bb7d;
   color: #2e343c;
   -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3);
   -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3);
@@ -1146,7 +1146,7 @@ select.form-control {
 }
 .stylish-select .pi-section-dark .newListSelFocus {
   background: #ffffff;
-  border-color: #12c3cc;
+  border-color: #33bb7d;
   -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3);
   -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3);
   box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3);
@@ -1159,7 +1159,7 @@ select.form-control {
   text-shadow: 0 1px 0 #ffffff;
 }
 .stylish-select .pi-section-dark ul.newList {
-  border-color: #12c3cc;
+  border-color: #33bb7d;
   -webkit-box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);
@@ -1279,8 +1279,8 @@ select.form-control {
 }
 .pi-section-parallax .form-control:focus {
   background: #ffffff;
-  border-color: #12c3cc;
-  border-top-color: #12c3cc;
+  border-color: #33bb7d;
+  border-top-color: #33bb7d;
   color: #242528;
   -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
@@ -1335,7 +1335,7 @@ select.form-control {
 }
 .stylish-select .pi-section-parallax .newListSelFocus {
   background: #ffffff;
-  border-color: #12c3cc;
+  border-color: #33bb7d;
   -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
   box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
@@ -1348,7 +1348,7 @@ select.form-control {
   text-shadow: 0 1px 0 #ffffff;
 }
 .stylish-select .pi-section-parallax ul.newList {
-  border-color: #12c3cc;
+  border-color: #33bb7d;
   -webkit-box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);

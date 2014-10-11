@@ -310,29 +310,29 @@ table.pi-table.pi-table-all-borders tfoot:first-child tr:first-child td {
   color: #ffffff;
 }
 .pi-section-base table.pi-table td {
-  border-color: #e77354;
+  border-color: #15b967;
 }
 .pi-section-base table.pi-table.pi-table-zebra tbody tr:nth-child(2n-1) {
-  background: #e45b3c;
+  background: #15ae59;
 }
 .pi-section-base table.pi-table.pi-table-complex tr,
 .pi-section-base table.pi-table.pi-table-complex td,
 .pi-section-base table.pi-table.pi-table-complex th {
-  border-color: #ec7b5d;
+  border-color: #1cc36d;
 }
 .pi-section-base table.pi-table.pi-table-complex thead tr th {
-  background: #e86343;
+  background: #18ba60;
   color: #ffffff;
-  border-color: #ec7b5d;
+  border-color: #21d178;
 }
 .pi-section-base table.pi-table.pi-table-complex tbody tr {
-  background: #e45b3c;
+  background: #15ae59;
 }
 .pi-section-base table.pi-table.pi-table-complex.pi-table-zebra tbody tr:nth-child(2n-1) {
-  background: #df5031;
+  background: #11a252;
 }
 .pi-section-base table.pi-table.pi-table-complex.pi-table-zebra tbody tr:nth-child(2n) {
-  background: #e45b3c;
+  background: #15ae59;
 }
 .pi-section-base table.pi-table.pi-table-shadow {
   -webkit-box-shadow: none;
@@ -340,7 +340,7 @@ table.pi-table.pi-table-all-borders tfoot:first-child tr:first-child td {
   box-shadow: none;
 }
 .pi-section-base table.pi-table.pi-table-all-borders th {
-  border-color: #e77354;
+  border-color: #15b967;
 }
 .pi-section-dark table.pi-table th {
   border-color: #c6ccd0;

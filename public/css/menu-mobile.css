@@ -150,40 +150,40 @@
 .pi-menu-mobile-base li:hover,
 .pi-menu-mobile-dark li:hover {
   background: #262b31;
-  color: #e86343;
+  color: #18ba60;
 }
 .pi-menu-mobile-white li:hover > a,
 .pi-menu-mobile-grey li:hover > a,
 .pi-menu-mobile-base li:hover > a,
 .pi-menu-mobile-dark li:hover > a {
-  color: #e86343;
+  color: #18ba60;
 }
 .pi-menu-mobile-white li.active,
 .pi-menu-mobile-grey li.active,
 .pi-menu-mobile-base li.active,
 .pi-menu-mobile-dark li.active {
   background: #21252b;
-  color: #e86343;
+  color: #18ba60;
   font-weight: 700;
 }
 .pi-menu-mobile-white li.active > a,
 .pi-menu-mobile-grey li.active > a,
 .pi-menu-mobile-base li.active > a,
 .pi-menu-mobile-dark li.active > a {
-  color: #e86343;
+  color: #18ba60;
 }
 .pi-menu-mobile-white li.active:hover,
 .pi-menu-mobile-grey li.active:hover,
 .pi-menu-mobile-base li.active:hover,
 .pi-menu-mobile-dark li.active:hover {
   background: #262b31;
-  color: #e86343;
+  color: #18ba60;
 }
 .pi-menu-mobile-white li.active:hover > a,
 .pi-menu-mobile-grey li.active:hover > a,
 .pi-menu-mobile-base li.active:hover > a,
 .pi-menu-mobile-dark li.active:hover > a {
-  color: #e86343;
+  color: #18ba60;
 }
 .pi-menu-mobile-white.pi-items-have-borders li a,
 .pi-menu-mobile-grey.pi-items-have-borders li a,
@@ -247,17 +247,17 @@
 .pi-menu-mobile-grey ul a:hover,
 .pi-menu-mobile-base ul a:hover,
 .pi-menu-mobile-dark ul a:hover {
-  color: #e86343;
+  color: #18ba60;
 }
 .pi-menu-mobile-white ul li.active a,
 .pi-menu-mobile-grey ul li.active a,
 .pi-menu-mobile-base ul li.active a,
 .pi-menu-mobile-dark ul li.active a {
-  color: #e86343;
+  color: #18ba60;
 }
 .pi-menu-mobile-white ul li.active a:hover,
 .pi-menu-mobile-grey ul li.active a:hover,
 .pi-menu-mobile-base ul li.active a:hover,
 .pi-menu-mobile-dark ul li.active a:hover {
-  color: #e86343;
+  color: #18ba60;
 }

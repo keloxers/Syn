@@ -84,15 +84,15 @@ hr.pi-divider-gap-100 {
   margin: 50px 0;
 }
 .pi-section-base hr {
-  border-color: #e77051;
+  border-color: #15b967;
 }
 .pi-section-base hr:before,
 .pi-section-base hr:after {
-  border-color: #e77051;
+  border-color: #15b967;
 }
 .pi-section-base hr.pi-divider-dashed,
 .pi-section-base hr.pi-divider-dotted {
-  border-color: #f48567;
+  border-color: #2dc372;
 }
 .pi-section-white hr {
   border-color: #e5eaea;

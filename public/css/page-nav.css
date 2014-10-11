@@ -69,44 +69,44 @@
 }
 .pi-section-white .pi-pagenav a.pi-active,
 .pi-section-grey .pi-pagenav a.pi-active {
-  background: #e86343;
-  border-color: #dd5437;
+  background: #18ba60;
+  border-color: #10a95b;
   color: #ffffff;
-  box-shadow: inset 0 1px 0 #eb6f4b;
+  box-shadow: inset 0 1px 0 #1bc26c;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
 }
 .pi-section-white .pi-pagenav a.pi-active:hover,
 .pi-section-grey .pi-pagenav a.pi-active:hover {
-  background: #d34a35;
-  border-color: #c63d2c;
+  background: #099555;
+  border-color: #088b4c;
   color: #ffffff;
-  box-shadow: inset 0 1px 0 #d8533b;
+  box-shadow: inset 0 1px 0 #0aa05e;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
 }
 .pi-section-base .pi-pagenav a {
-  background: #e86343;
-  border-color: #eb7556;
+  background: #15b05a;
+  border-color: #1bbe69;
   color: #ffffff;
   box-shadow: none;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.08);
 }
 .pi-section-base .pi-pagenav a:hover {
-  background: #ea6f50;
-  border-color: #ed8062;
+  background: #18ba60;
+  border-color: #21d178;
   color: #ffffff;
   box-shadow: none;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.08);
 }
 .pi-section-base .pi-pagenav a.pi-active {
-  background: #c94127;
-  border-color: #bf3a23;
+  background: #088d49;
+  border-color: #078443;
   color: #ffffff;
   box-shadow: none;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.08);
 }
 .pi-section-base .pi-pagenav a.pi-active:hover {
-  background: #c13b24;
-  border-color: #b63420;
+  background: #038044;
+  border-color: #03763f;
   color: #ffffff;
   box-shadow: none;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.08);
@@ -129,17 +129,17 @@
 }
 .pi-section-dark .pi-pagenav a.pi-active,
 .pi-section-parallax .pi-pagenav a.pi-active {
-  background: #e86343;
-  border-color: #dd5437;
+  background: #18ba60;
+  border-color: #10a95b;
   color: #ffffff;
-  box-shadow: inset 0 1px 0 #eb6f4b;
+  box-shadow: inset 0 1px 0 #1bc26c;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
 }
 .pi-section-dark .pi-pagenav a.pi-active:hover,
 .pi-section-parallax .pi-pagenav a.pi-active:hover {
-  background: #d34a35;
-  border-color: #c63d2c;
+  background: #099555;
+  border-color: #088b4c;
   color: #ffffff;
-  box-shadow: inset 0 1px 0 #d8533b;
+  box-shadow: inset 0 1px 0 #0aa05e;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
 }

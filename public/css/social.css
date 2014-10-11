@@ -1490,7 +1490,7 @@
   background: #b12b1c !important;
 }
 .pi-section-base .pi-social-icons li a {
-  background: #c93f25;
+  background: #048949;
   color: #ffffff;
 }
 .pi-section-base .pi-social-icons li a:hover {
@@ -1510,7 +1510,7 @@
   border-color: transparent;
 }
 .pi-section-base .pi-social-icons.pi-jump-bg li a i:last-child {
-  background: #c93f25;
+  background: #048949;
 }
 .pi-section-base .pi-social-icons.pi-jump-bg li a i:first-child {
   background: #ffffff;
@@ -1531,21 +1531,21 @@
   background: none !important;
 }
 .pi-section-base .pi-social-icons.pi-full-height li a {
-  background: #df5031;
+  background: #11a252;
   color: #ffffff;
 }
 .pi-section-base .pi-social-icons.pi-full-height li a:hover {
-  background: #e55d3e;
+  background: #14ac58;
   color: #ffffff;
 }
 .pi-section-base .pi-social-icons.pi-full-height.pi-bordered li {
-  border-color: #e77051;
+  border-color: #15b967;
 }
 .pi-section-base .pi-social-icons.pi-full-height.pi-jump-bg li a i:last-child {
-  background: #df5031;
+  background: #11a252;
 }
 .pi-section-base .pi-social-icons.pi-full-height.pi-jump-bg li a i:first-child {
-  background: #e55d3e;
+  background: #14ac58;
 }
 .pi-section-base .pi-social-icons.pi-full-height.pi-jump li a i:last-child,
 .pi-section-base .pi-social-icons.pi-full-height.pi-jump li a:hover i:last-child {
@@ -1567,7 +1567,7 @@
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
 }
 .pi-section-base .pi-social-icons-simple li a:hover {
-  color: #b12813;
+  color: #007841;
   text-shadow: 0 1px 0 rgba(250, 250, 250, 0.15);
 }
 .pi-section-white .pi-social-icons li a {
@@ -1575,7 +1575,7 @@
   color: #3b3e3f;
 }
 .pi-section-white .pi-social-icons li a:hover {
-  background: #e86343;
+  background: #18ba60;
   color: #ffffff;
 }
 .pi-section-white .pi-social-icons.pi-dark-opacity li a {
@@ -1594,7 +1594,7 @@
   background: #eef1f1;
 }
 .pi-section-white .pi-social-icons.pi-jump-bg li a i:first-child {
-  background: #e86343;
+  background: #18ba60;
 }
 .pi-section-white .pi-social-icons.pi-jump li a i:last-child,
 .pi-section-white .pi-social-icons.pi-jump li a:hover i:last-child {
@@ -1617,7 +1617,7 @@
 }
 .pi-section-white .pi-social-icons.pi-full-height li a:hover {
   background: #f8fafa;
-  color: #e86343;
+  color: #18ba60;
 }
 .pi-section-white .pi-social-icons.pi-full-height.pi-bordered li {
   border-color: #eef1f1;
@@ -1648,7 +1648,7 @@
   text-shadow: 0 1px 0 #ffffff;
 }
 .pi-section-white .pi-social-icons-simple li a:hover {
-  color: #e86343;
+  color: #18ba60;
   text-shadow: 0 1px 0 #ffffff;
 }
 .pi-section-grey .pi-social-icons li a {
@@ -1656,7 +1656,7 @@
   color: #2e343c;
 }
 .pi-section-grey .pi-social-icons li a:hover {
-  background: #e86343;
+  background: #18ba60;
   color: #ffffff;
 }
 .pi-section-grey .pi-social-icons.pi-dark-opacity li a {
@@ -1675,7 +1675,7 @@
   background: #ffffff;
 }
 .pi-section-grey .pi-social-icons.pi-jump-bg li a i:first-child {
-  background: #e86343;
+  background: #18ba60;
 }
 .pi-section-grey .pi-social-icons.pi-jump li a i:last-child,
 .pi-section-grey .pi-social-icons.pi-jump li a:hover i:last-child {
@@ -1698,7 +1698,7 @@
 }
 .pi-section-grey .pi-social-icons.pi-full-height li a:hover {
   background: #fafbfc;
-  color: #e86343;
+  color: #18ba60;
 }
 .pi-section-grey .pi-social-icons.pi-full-height.pi-bordered li {
   border-color: #e6eaea;
@@ -1729,7 +1729,7 @@
   text-shadow: 0 1px 0 #ffffff;
 }
 .pi-section-grey .pi-social-icons-simple li a:hover {
-  color: #e86343;
+  color: #18ba60;
   text-shadow: 0 1px 0 #ffffff;
 }
 .pi-section-dark .pi-social-icons li a {
@@ -1737,7 +1737,7 @@
   color: #b0bac2;
 }
 .pi-section-dark .pi-social-icons li a:hover {
-  background: #e86343;
+  background: #18ba60;
   color: #ffffff;
 }
 .pi-section-dark .pi-social-icons.pi-dark-opacity li a {
@@ -1756,7 +1756,7 @@
   background: #2b3139;
 }
 .pi-section-dark .pi-social-icons.pi-jump-bg li a i:first-child {
-  background: #e86343;
+  background: #18ba60;
 }
 .pi-section-dark .pi-social-icons.pi-jump li a i:last-child,
 .pi-section-dark .pi-social-icons.pi-jump li a:hover i:last-child {
@@ -1779,7 +1779,7 @@
 }
 .pi-section-dark .pi-social-icons.pi-full-height li a:hover {
   background: #282d33;
-  color: #e86343;
+  color: #18ba60;
 }
 .pi-section-dark .pi-social-icons.pi-full-height.pi-bordered li {
   border-color: #2e343a;
@@ -1810,7 +1810,7 @@
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
 }
 .pi-section-dark .pi-social-icons-simple li a:hover {
-  color: #e86343;
+  color: #18ba60;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
 }
 .pi-section-parallax .pi-social-icons li a {
@@ -1818,7 +1818,7 @@
   color: #ffffff;
 }
 .pi-section-parallax .pi-social-icons li a:hover {
-  background: #e86343;
+  background: #18ba60;
   color: #ffffff;
 }
 .pi-section-parallax .pi-social-icons.pi-dark-opacity li a {
@@ -1837,7 +1837,7 @@
   background: rgba(250, 250, 250, 0.1);
 }
 .pi-section-parallax .pi-social-icons.pi-jump-bg li a i:first-child {
-  background: #e86343;
+  background: #18ba60;
 }
 .pi-section-parallax .pi-social-icons.pi-jump li a i:last-child,
 .pi-section-parallax .pi-social-icons.pi-jump li a:hover i:last-child {
@@ -1891,7 +1891,7 @@
   text-shadow: 0 1px 0 #141517;
 }
 .pi-section-parallax .pi-social-icons-simple li a:hover {
-  color: #e86343;
+  color: #18ba60;
   text-shadow: 0 1px 0 #141517;
 }
 .pi-social-icons.pi-active-bg li a:hover,

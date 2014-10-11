@@ -669,7 +669,7 @@
   box-shadow: none;
 }
 .pi-section-grey .pi-tabs-navigation li.pi-active a:after {
-  background: #e86343;
+  background: #18ba60;
 }
 .pi-section-grey .pi-tabs-navigation-transparent li.pi-active a,
 .pi-section-grey .pi-tabs-navigation-transparent li.pi-active a:hover,
@@ -716,7 +716,7 @@
   box-shadow: none;
 }
 .pi-section-white .pi-tabs-navigation li.pi-active a:after {
-  background: #e86343;
+  background: #18ba60;
 }
 .pi-section-white .pi-tabs-navigation-transparent li.pi-active a,
 .pi-section-white .pi-tabs-navigation-transparent li.pi-active a:hover,
@@ -744,19 +744,19 @@
 }
 .pi-section-base .pi-tabs-navigation li a {
   color: #ffffff;
-  background: #e86343;
-  border-color: #ec7b5d;
+  background: #18ba60;
+  border-color: #21d178;
 }
 .pi-section-base .pi-tabs-navigation li a:hover {
-  background: #e86343;
+  background: #18ba60;
   color: #ffffff;
 }
 .pi-section-base .pi-tabs-navigation li.pi-active a,
 .pi-section-base .pi-tabs-navigation li.pi-active a:hover,
 .pi-section-base .pi-tabs-navigation li.pi-active a:focus {
-  background: #e45b3c;
-  border-color: #ec7b5d;
-  border-bottom-color: #e45b3c;
+  background: #15ae59;
+  border-color: #21d178;
+  border-bottom-color: #15ae59;
   color: #ffffff;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -768,18 +768,18 @@
 .pi-section-base .pi-tabs-navigation-transparent li.pi-active a,
 .pi-section-base .pi-tabs-navigation-transparent li.pi-active a:hover,
 .pi-section-base .pi-tabs-navigation-transparent li.pi-active a:focus {
-  background: #df5031;
-  border-bottom-color: #df5031;
+  background: #11a252;
+  border-bottom-color: #11a252;
 }
 .pi-section-base .pi-tabs-vertical .pi-tabs-navigation li.pi-active a,
 .pi-section-base .pi-tabs-vertical .pi-tabs-navigation li.pi-active a:hover,
 .pi-section-base .pi-tabs-vertical .pi-tabs-navigation li.pi-active a:focus {
-  border-right-color: #e45b3c;
-  border-bottom-color: #ec7b5d;
+  border-right-color: #15ae59;
+  border-bottom-color: #21d178;
 }
 .pi-section-base .pi-tabs-content {
-  background: #e45b3c;
-  border-color: #ec7b5d;
+  background: #15ae59;
+  border-color: #21d178;
 }
 .pi-section-base .pi-tabs-content-shadow {
   -webkit-box-shadow: none;
@@ -787,7 +787,7 @@
   box-shadow: none;
 }
 .pi-section-base .pi-tabs-content-transparent {
-  background: #df5031;
+  background: #11a252;
 }
 .pi-section-dark .pi-tabs-navigation li a {
   color: #808d97;
@@ -810,7 +810,7 @@
   box-shadow: none;
 }
 .pi-section-dark .pi-tabs-navigation li.pi-active a:after {
-  background: #e86343;
+  background: #18ba60;
 }
 .pi-section-dark .pi-tabs-navigation-transparent li.pi-active a,
 .pi-section-dark .pi-tabs-navigation-transparent li.pi-active a:hover,
@@ -857,7 +857,7 @@
   box-shadow: none;
 }
 .pi-section-parallax .pi-tabs-navigation li.pi-active a:after {
-  background: #e86343;
+  background: #18ba60;
 }
 .pi-section-parallax .pi-tabs-navigation-transparent li.pi-active a,
 .pi-section-parallax .pi-tabs-navigation-transparent li.pi-active a:hover,

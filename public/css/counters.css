@@ -159,31 +159,31 @@
 }
 .pi-section-base .pi-counter-line .pi-counter-count {
   color: #ffffff;
-  background: #ce4429;
+  background: #088d49;
   -webkit-box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.04);
   -moz-box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.04);
   box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.04);
 }
 .pi-section-base .pi-counter-line .pi-counter-progress {
-  background: #f06747;
-  -webkit-box-shadow: 0 2px 15px rgba(232, 99, 67, 0.4);
-  -moz-box-shadow: 0 2px 15px rgba(232, 99, 67, 0.4);
-  box-shadow: 0 2px 15px rgba(232, 99, 67, 0.4);
+  background: #18ba60;
+  -webkit-box-shadow: 0 2px 15px rgba(24, 186, 96, 0.4);
+  -moz-box-shadow: 0 2px 15px rgba(24, 186, 96, 0.4);
+  box-shadow: 0 2px 15px rgba(24, 186, 96, 0.4);
 }
 .pi-section-base .pi-counter-line.pi-slave .pi-counter-progress {
-  background: #ff724f;
-  -webkit-box-shadow: 0 2px 15px rgba(247, 120, 89, 0.4);
-  -moz-box-shadow: 0 2px 15px rgba(247, 120, 89, 0.4);
-  box-shadow: 0 2px 15px rgba(247, 120, 89, 0.4);
+  background: #46d879;
+  -webkit-box-shadow: 0 2px 15px rgba(59, 108, 167, 0.4);
+  -moz-box-shadow: 0 2px 15px rgba(59, 108, 167, 0.4);
+  box-shadow: 0 2px 15px rgba(59, 108, 167, 0.4);
 }
 .pi-section-base .pi-counter-line.pi-slave-2 .pi-counter-progress {
-  background: #b92f21;
-  -webkit-box-shadow: 0 2px 15px rgba(185, 47, 33, 0.4);
-  -moz-box-shadow: 0 2px 15px rgba(185, 47, 33, 0.4);
-  box-shadow: 0 2px 15px rgba(185, 47, 33, 0.4);
+  background: #8cd1ad;
+  -webkit-box-shadow: 0 2px 15px rgba(140, 209, 173, 0.4);
+  -moz-box-shadow: 0 2px 15px rgba(140, 209, 173, 0.4);
+  box-shadow: 0 2px 15px rgba(140, 209, 173, 0.4);
 }
 .pi-section-base .pi-counter-circle-colors {
-  background: #e86343;
+  background: #18ba60;
   border-color: #008691;
 }
 .pi-section-white .pi-counter-simple .pi-counter-count,
@@ -200,28 +200,28 @@
 }
 .pi-section-white .pi-counter-line .pi-counter-progress,
 .pi-section-parallax .pi-counter-line .pi-counter-progress {
-  background: #e86343;
-  -webkit-box-shadow: 0 2px 15px rgba(232, 99, 67, 0.4);
-  -moz-box-shadow: 0 2px 15px rgba(232, 99, 67, 0.4);
-  box-shadow: 0 2px 15px rgba(232, 99, 67, 0.4);
+  background: #18ba60;
+  -webkit-box-shadow: 0 2px 15px rgba(24, 186, 96, 0.4);
+  -moz-box-shadow: 0 2px 15px rgba(24, 186, 96, 0.4);
+  box-shadow: 0 2px 15px rgba(24, 186, 96, 0.4);
 }
 .pi-section-white .pi-counter-line.pi-slave .pi-counter-progress,
 .pi-section-parallax .pi-counter-line.pi-slave .pi-counter-progress {
-  background: #d04530;
-  -webkit-box-shadow: 0 2px 15px rgba(211, 74, 53, 0.4);
-  -moz-box-shadow: 0 2px 15px rgba(211, 74, 53, 0.4);
-  box-shadow: 0 2px 15px rgba(211, 74, 53, 0.4);
+  background: #099555;
+  -webkit-box-shadow: 0 2px 15px rgba(9, 149, 85, 0.4);
+  -moz-box-shadow: 0 2px 15px rgba(9, 149, 85, 0.4);
+  box-shadow: 0 2px 15px rgba(9, 149, 85, 0.4);
 }
 .pi-section-white .pi-counter-line.pi-slave-2 .pi-counter-progress,
 .pi-section-parallax .pi-counter-line.pi-slave-2 .pi-counter-progress {
-  background: #c2d8d8;
-  -webkit-box-shadow: 0 2px 15px rgba(194, 216, 216, 0.4);
-  -moz-box-shadow: 0 2px 15px rgba(194, 216, 216, 0.4);
-  box-shadow: 0 2px 15px rgba(194, 216, 216, 0.4);
+  background: #bbcec9;
+  -webkit-box-shadow: 0 2px 15px rgba(187, 206, 201, 0.4);
+  -moz-box-shadow: 0 2px 15px rgba(187, 206, 201, 0.4);
+  box-shadow: 0 2px 15px rgba(187, 206, 201, 0.4);
 }
 .pi-section-white .pi-counter-circle-colors,
 .pi-section-parallax .pi-counter-circle-colors {
-  background: #e86343;
+  background: #18ba60;
   border-color: #edeff3;
 }
 .pi-section-grey .pi-counter-simple .pi-counter-count {
@@ -235,25 +235,25 @@
   box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.03);
 }
 .pi-section-grey .pi-counter-line .pi-counter-progress {
-  background: #e86343;
-  -webkit-box-shadow: 0 2px 15px rgba(232, 99, 67, 0.4);
-  -moz-box-shadow: 0 2px 15px rgba(232, 99, 67, 0.4);
-  box-shadow: 0 2px 15px rgba(232, 99, 67, 0.4);
+  background: #18ba60;
+  -webkit-box-shadow: 0 2px 15px rgba(24, 186, 96, 0.4);
+  -moz-box-shadow: 0 2px 15px rgba(24, 186, 96, 0.4);
+  box-shadow: 0 2px 15px rgba(24, 186, 96, 0.4);
 }
 .pi-section-grey .pi-counter-line.pi-slave .pi-counter-progress {
-  background: #d04530;
-  -webkit-box-shadow: 0 2px 15px rgba(211, 74, 53, 0.4);
-  -moz-box-shadow: 0 2px 15px rgba(211, 74, 53, 0.4);
-  box-shadow: 0 2px 15px rgba(211, 74, 53, 0.4);
+  background: #099555;
+  -webkit-box-shadow: 0 2px 15px rgba(9, 149, 85, 0.4);
+  -moz-box-shadow: 0 2px 15px rgba(9, 149, 85, 0.4);
+  box-shadow: 0 2px 15px rgba(9, 149, 85, 0.4);
 }
 .pi-section-grey .pi-counter-line.pi-slave-2 .pi-counter-progress {
-  background: #c2d8d8;
-  -webkit-box-shadow: 0 2px 15px rgba(194, 216, 216, 0.4);
-  -moz-box-shadow: 0 2px 15px rgba(194, 216, 216, 0.4);
-  box-shadow: 0 2px 15px rgba(194, 216, 216, 0.4);
+  background: #bbcec9;
+  -webkit-box-shadow: 0 2px 15px rgba(187, 206, 201, 0.4);
+  -moz-box-shadow: 0 2px 15px rgba(187, 206, 201, 0.4);
+  box-shadow: 0 2px 15px rgba(187, 206, 201, 0.4);
 }
 .pi-section-grey .pi-counter-circle-colors {
-  background: #e86343;
+  background: #18ba60;
   border-color: #edeff3;
 }
 .pi-section-dark .pi-counter-simple .pi-counter-count {
@@ -267,24 +267,24 @@
   box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.1);
 }
 .pi-section-dark .pi-counter-line .pi-counter-progress {
-  background: #e86343;
-  -webkit-box-shadow: 0 2px 15px rgba(232, 99, 67, 0.4);
-  -moz-box-shadow: 0 2px 15px rgba(232, 99, 67, 0.4);
-  box-shadow: 0 2px 15px rgba(232, 99, 67, 0.4);
+  background: #18ba60;
+  -webkit-box-shadow: 0 2px 15px rgba(24, 186, 96, 0.4);
+  -moz-box-shadow: 0 2px 15px rgba(24, 186, 96, 0.4);
+  box-shadow: 0 2px 15px rgba(24, 186, 96, 0.4);
 }
 .pi-section-dark .pi-counter-line.pi-slave .pi-counter-progress {
-  background: #d04530;
-  -webkit-box-shadow: 0 2px 15px rgba(211, 74, 53, 0.4);
-  -moz-box-shadow: 0 2px 15px rgba(211, 74, 53, 0.4);
-  box-shadow: 0 2px 15px rgba(211, 74, 53, 0.4);
+  background: #099555;
+  -webkit-box-shadow: 0 2px 15px rgba(9, 149, 85, 0.4);
+  -moz-box-shadow: 0 2px 15px rgba(9, 149, 85, 0.4);
+  box-shadow: 0 2px 15px rgba(9, 149, 85, 0.4);
 }
 .pi-section-dark .pi-counter-line.pi-slave-2 .pi-counter-progress {
-  background: #684947;
-  -webkit-box-shadow: 0 2px 15px rgba(104, 73, 71, 0.4);
-  -moz-box-shadow: 0 2px 15px rgba(104, 73, 71, 0.4);
-  box-shadow: 0 2px 15px rgba(104, 73, 71, 0.4);
+  background: #476959;
+  -webkit-box-shadow: 0 2px 15px rgba(71, 105, 89, 0.4);
+  -moz-box-shadow: 0 2px 15px rgba(71, 105, 89, 0.4);
+  box-shadow: 0 2px 15px rgba(71, 105, 89, 0.4);
 }
 .pi-section-dark .pi-counter-circle-colors {
-  background: #e86343;
+  background: #18ba60;
   border-color: #2a3037;
 }

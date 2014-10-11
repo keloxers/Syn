@@ -463,14 +463,14 @@ img {
 }
 /* ************************** */
 .pi-section-base .pi-img-border {
-  border-color: #c13b24;
+  border-color: #088d49;
 }
 .pi-section-base .pi-img-w:hover a .pi-img-border {
-  border-color: #ac2d19;
+  border-color: #027c43;
 }
 .pi-section-base .pi-img-border-double {
-  border-color: #eb7556;
-  background-color: #e86343;
+  border-color: #21d178;
+  background-color: #18ba60;
   /*&,
 		&:before {
 			border-color: @img-border-double-1-color;
@@ -481,8 +481,8 @@ img {
 
 }
 .pi-section-base .pi-img-w:hover a .pi-img-border-double {
-  border-color: #f78d71;
-  background-color: #f17355;
+  border-color: #3eda8b;
+  background-color: #27ca6f;
   /*&,
 		&:before {
 			border-color: @img-border-double-1-color-hover;
@@ -493,9 +493,9 @@ img {
 
 }
 .pi-section-base .pi-img-caption {
-  background: #e86343;
-  border-color: #eb7556;
-  color: #faded6;
+  background: #17b55d;
+  border-color: #26c070;
+  color: #d6fae4;
 }
 .pi-section-base .pi-img-w:hover a.pi-img-caption {
   background: #ffffff;
@@ -506,7 +506,7 @@ img {
   border-color: #e8eeee;
 }
 .pi-section-white .pi-img-w:hover a .pi-img-border {
-  border-color: #e86343;
+  border-color: #18ba60;
 }
 .pi-section-white .pi-img-border-double {
   border-color: #e5eaea;
@@ -521,7 +521,7 @@ img {
 
 }
 .pi-section-white .pi-img-w:hover a .pi-img-border-double {
-  border-color: #e86343;
+  border-color: #18ba60;
   background-color: #ffffff;
   /*&,
 		&:before {
@@ -538,15 +538,15 @@ img {
   color: #737a81;
 }
 .pi-section-white .pi-img-w:hover a.pi-img-caption {
-  background: #e86343;
-  border-color: #dd5437;
+  background: #18ba60;
+  border-color: #10a95b;
   color: #ffffff;
 }
 .pi-section-grey .pi-img-border {
   border-color: #dbe3e3;
 }
 .pi-section-grey .pi-img-w:hover a .pi-img-border {
-  border-color: #e86343;
+  border-color: #18ba60;
 }
 .pi-section-grey .pi-img-border-double {
   border-color: #dae1e1;
@@ -561,7 +561,7 @@ img {
 
 }
 .pi-section-grey .pi-img-w:hover a .pi-img-border-double {
-  border-color: #e86343;
+  border-color: #18ba60;
   background-color: #ffffff;
   /*&,
 		&:before {
@@ -578,15 +578,15 @@ img {
   color: #737a81;
 }
 .pi-section-grey .pi-img-w:hover a.pi-img-caption {
-  background: #e86343;
-  border-color: #dd5437;
+  background: #18ba60;
+  border-color: #10a95b;
   color: #ffffff;
 }
 .pi-section-dark .pi-img-border {
   border-color: #2a3037;
 }
 .pi-section-dark .pi-img-w:hover a .pi-img-border {
-  border-color: #e86343;
+  border-color: #18ba60;
 }
 .pi-section-dark .pi-img-border-double {
   border-color: #32383f;
@@ -601,7 +601,7 @@ img {
 
 }
 .pi-section-dark .pi-img-w:hover a .pi-img-border-double {
-  border-color: #e86343;
+  border-color: #18ba60;
   background-color: #2a3037;
   /*&,
 		&:before {
@@ -618,19 +618,19 @@ img {
   color: #808d97;
 }
 .pi-section-dark .pi-img-w:hover a.pi-img-caption {
-  background: #e86343;
-  border-color: #dd5437;
+  background: #18ba60;
+  border-color: #10a95b;
   color: #ffffff;
 }
 .pi-caption-icon {
-  background: rgba(232, 99, 67, 0.85);
+  background: rgba(24, 186, 96, 0.85);
   color: #fff;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 .pi-caption-icon:hover {
-  background: #e86343;
+  background: #18ba60;
 }
 .pi-caption-icon.pi-caption-icon-light {
   background: #fff;
@@ -650,7 +650,7 @@ img {
   box-shadow: none;
 }
 .pi-caption-icon.pi-caption-icon-dark:hover {
-  background: #e86343;
+  background: #18ba60;
   color: #fff;
 }
 .pi-caption-icon.pi-caption-icon-only {
@@ -669,7 +669,7 @@ img {
   box-shadow: none;
 }
 .pi-img-overlay {
-  background: rgba(211, 74, 53, 0.85);
+  background: rgba(9, 149, 85, 0.85);
   color: rgba(250, 250, 250, 0.8);
 }
 .pi-img-overlay h1,
@@ -701,7 +701,7 @@ img {
   background: #fff;
 }
 .pi-img-overlay.pi-img-overlay-hovered {
-  background: rgba(211, 74, 53, 0.8);
+  background: rgba(9, 149, 85, 0.8);
 }
 .pi-img-overlay.pi-img-overlay-dark {
   background: rgba(24, 28, 32, 0.5);
@@ -731,12 +731,12 @@ img {
   color: #4d5258;
 }
 .pi-img-overlay.pi-img-overlay-whiter .pi-caption-links li a:hover {
-  color: #e86343;
+  color: #18ba60;
 }
 .pi-img-w:hover .pi-img-overlay.pi-img-overlay-hovered,
 .pi-img-w a:hover .pi-img-overlay.pi-img-overlay-hovered,
 .pi-img-w span:hover .pi-img-overlay.pi-img-overlay-hovered {
-  background: rgba(211, 74, 53, 0.5);
+  background: rgba(9, 149, 85, 0.5);
 }
 .pi-img-w:hover .pi-img-overlay.pi-img-overlay-dark-hovered,
 .pi-img-w a:hover .pi-img-overlay.pi-img-overlay-dark-hovered,

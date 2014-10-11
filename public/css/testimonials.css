@@ -155,26 +155,26 @@
 .pi-section-base .pi-testimonial-content.pi-testimonial-base,
 .pi-section-dark .pi-testimonial-content.pi-testimonial-base,
 .pi-section-parallax .pi-testimonial-content.pi-testimonial-base {
-  background: #e86343;
+  background: #18ba60;
   color: #ffffff;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
-  border-color: #e86343;
+  border-color: #18ba60;
 }
 .pi-section-white .pi-testimonial-content.pi-testimonial-base:after,
 .pi-section-grey .pi-testimonial-content.pi-testimonial-base:after,
 .pi-section-base .pi-testimonial-content.pi-testimonial-base:after,
 .pi-section-dark .pi-testimonial-content.pi-testimonial-base:after,
 .pi-section-parallax .pi-testimonial-content.pi-testimonial-base:after {
-  background: url(../img/triangle-testimonials-red.png) no-repeat 50% 0;
+  background: url(../img/triangle-testimonials-green.png) no-repeat 50% 0;
 }
 .pi-section-white .pi-testimonial-content.pi-testimonial-base.pi-testimonial-content-quotes:before,
 .pi-section-grey .pi-testimonial-content.pi-testimonial-base.pi-testimonial-content-quotes:before,
 .pi-section-base .pi-testimonial-content.pi-testimonial-base.pi-testimonial-content-quotes:before,
 .pi-section-dark .pi-testimonial-content.pi-testimonial-base.pi-testimonial-content-quotes:before,
 .pi-section-parallax .pi-testimonial-content.pi-testimonial-base.pi-testimonial-content-quotes:before {
-  color: #fa947c;
+  color: #8be2ac;
 }
 .pi-section-white .pi-testimonial-content.pi-testimonial-dark,
 .pi-section-grey .pi-testimonial-content.pi-testimonial-dark,
