@@ -7,14 +7,14 @@
 	<div class="pi-section-w pi-shadow-inside-top pi-section-parallax" style="background-image: url(img_external/gallery/water-wave-bg-1.jpg);">
 		<div class="pi-section pi-padding-top-90 pi-padding-bottom-70 pi-text-center">
 
-			<div class="pi-img-w pi-img-center pi-margin-bottom-40" style="width: 140px;">
+			<div class="pi-img-w pi-img-center pi-margin-bottom-40" style="width: 240px;">
 				<img src="img_external/gallery/logo-big-white-circle.png" alt="">
 			</div>
 
 
-		<p class="lead-24 pi-weight-300 pi-uppercase pi-margin-bottom-40 pi-letter-spacing pi-text-white">
-				{{trans('app.title_home')}}
-			</p>
+<div class="pi-img-w pi-img-center pi-margin-bottom-40" style="width: 540px;">
+	<img src="img_external/gallery/logo-big-white-texto.png" alt="">
+</div>
 
 				<a href="/pages/quienessomos" class="btn pi-btn-base pi-btn-no-border pi-shadow pi-btn-big">
 					Quienes Somos

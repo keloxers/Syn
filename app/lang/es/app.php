@@ -8,31 +8,31 @@ return array(
 	|--------------------------------------------------------------------------
 	*/
 
-	'site' 		=>  "RenovacionSocial.com",
+	'site' 		=>  "SyNMisiones.com",
 
-	'title_site'		=>	"Renovacion Social",
+	'title_site'		=>	"S&N Misiones",
 
-	'title_home' => "Renovacion Social<br>Corrientes Argentina",
+	'title_home' => "Consultora de Gestión de Calidad",
 
-	'email'		=>	"<strong>info@renovacionsocial.com</strong>",
+	'email'		=>	"<strong>info@synmisiones.com</strong>",
 
-	'telefono'		=>	"<strong>+54 3756 459030</strong>",
+	'telefono'		=>	"<strong>+54 3764 737339</strong>",
 
 	'seguinos_facebook'		=>	"",
 
-	'seguinos_twitter'		=>	"PartidoRSocial",
+	'seguinos_twitter'		=>	"",
 
-	'seguinos_googleplus'		=>	"https://plus.google.com/u/0/117914111014830448957",
+	'seguinos_googleplus'		=>	"",
 
 	'seguinos_instagram'		=>	"",
 
 	'seguinos_youtube'		=>	"",
 
-	'direccion'		=>	"Virasoro, Corrientes AR",
+	'direccion'		=>	"Posadas, Misiones AR",
 
-	'contacto'		=>	"(03756) 459030 <br><a href='mailto:info@renovacionsocial.com'>info@renovacionsocial.com</a>",
+	'contacto'		=>	"0054 (3764) 737339 <br><a href='mailto:info@synmisiones.com'>info@synmisiones.com</a>",
 
-	'title_food' => "Renovacion Social",
+	'title_food' => "S&N Misiones",
 
 ''		=>	"",
 ''		=>	"",

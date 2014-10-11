@@ -88,7 +88,7 @@
 <!-- End logo -->
 
 <!-- Text -->
-<div class="pi-header-block pi-header-block-txt pi-hidden-2xs">Partido de la Renovacion Social</div>
+<div class="pi-header-block pi-header-block-txt pi-hidden-2xs">Grupo Consultor Especializado en la Consultoria de Gestión</div>
 <!-- End text -->
 
 <!-- Menu -->
