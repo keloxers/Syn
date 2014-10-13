@@ -103,6 +103,7 @@ Route::group(['before' => 'auth|standardUser'], function()
 		) );
 
 		Route::get('/pages/{id}/edit', 'PagesController@edit');
+		Route::put('/pages/{id}', 'PagesController@update');
 		Route::get('/pages/{id}/delete', 'PagesController@destroy');
 
 		// Route::resource('banners', 'BannersController');
