@@ -12,7 +12,7 @@
 */
 App::setLocale('es');
 
-// Session Routes
+// Session Routess
 Route::get('login',  array('as' => 'login', 'uses' => 'SessionController@create'));
 Route::get('logout', array('as' => 'logout', 'uses' => 'SessionController@destroy'));
 Route::resource('sessions', 'SessionController', array('only' => array('create', 'store', 'destroy')));
@@ -86,9 +86,23 @@ Route::group(['before' => 'auth|standardUser'], function()
 
 //		Route::resource('clasificados', 'ClasificadosController');
 
-		Route::resource('ofertas', 'OfertasController');
+// 		Route::resource('ofertas', 'OfertasController');
 
-		Route::resource('pages', 'PagesController');
+		// Route::resource('pages', 'PagesController');
+		Route::get('/pages', 'PagesController@index');
+
+		// Create
+		Route::get( '/pages/create', array(
+				'as' => 'pages.create',
+				'uses' => 'PagesController@create'
+		) );
+		// Post
+		Route::post( '/pages/store', array(
+				'as' => 'pages.store',
+				'uses' => 'PagesController@store'
+		) );
+
+		Route::get('/pages/{id}/edit', 'PagesController@edit');
 		Route::get('/pages/{id}/delete', 'PagesController@destroy');
 
 		// Route::resource('banners', 'BannersController');
