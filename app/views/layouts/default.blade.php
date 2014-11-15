@@ -88,26 +88,23 @@
 <!-- End logo -->
 
 <!-- Text -->
-<div class="pi-header-block pi-header-block-txt pi-hidden-2xs">Grupo Consultor Especializado en la Consultoria de Gestión</div>
+<div class="pi-header-block pi-header-block-txt pi-hidden-2xs">Especialisialistas en Consultoria de Gestión</div>
 <!-- End text -->
 
 <!-- Menu -->
 <div class="pi-header-block pi-pull-right">
 <ul class="pi-simple-menu pi-has-hover-border pi-full-height pi-hidden-sm">
 
+
 <li class="pi-has-dropdown"><a href="/"><span>Home</span></a>
 	<ul class="pi-submenu pi-has-border pi-items-have-borders pi-has-shadow pi-submenu-dark">
-
-
 		<li><a href="/contactos/create"><span>Contactarse</span></a></li>
-
 		<?php
-
 				$pages = DB::table('pages')
 													->where('activo', '=', 'si')
+													->where('padre', '=', 'main')
 													->where('mostrar_menu', '=', 'si')
 													->orderBy('page', 'asc')->get();
-
 				if (count($pages)) {
 					foreach ($pages as $page) {
 						?>
@@ -115,13 +112,68 @@
 						<?php
 					}
 				}
-
 		?>
-
-
 	</ul>
-
 </li>
+
+
+
+
+
+
+
+<?php
+$pagestops = DB::table('pages')
+									->where('activo', '=', 'si')
+									->where('padre', '=', '')
+									->where('mostrar_menu', '=', 'si')
+									->orderBy('page', 'asc')->get();
+
+
+if (count($pagestops)) {
+
+foreach ($pagestops as $pagestop) {
+
+?>
+
+
+
+
+<li class="pi-has-dropdown"><a href="#"><span>{{$pagestop->page}}</span></a>
+	<ul class="pi-submenu pi-has-border pi-items-have-borders pi-has-shadow pi-submenu-dark">
+		<?php
+				$pages = DB::table('pages')
+													->where('activo', '=', 'si')
+													->where('padre', '=', 'institucional')
+													->where('mostrar_menu', '=', 'si')
+													->orderBy('page', 'asc')->get();
+				if (count($pages)) {
+					foreach ($pages as $page) {
+						?>
+							<li><a href="/pages/{{$page->url_seo}}"><span>{{$page->page}}</span></a></li>
+						<?php
+					}
+				}
+		?>
+	</ul>
+</li>
+
+
+
+<?php
+
+}
+		}
+
+?>
+
+
+
+
+
+
+
+
 
 
 

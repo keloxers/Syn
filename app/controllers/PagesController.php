@@ -63,6 +63,7 @@ class PagesController extends BaseController {
 		$page->url_seo = Input::get('url_seo');
 		$page->activo = Input::get('activo');
 		$page->mostrar_menu = Input::get('mostrar_menu');
+		$page->padre = Input::get('padre');
 
 
 		$page->save();
@@ -139,6 +140,7 @@ class PagesController extends BaseController {
 		$page->url_seo = Input::get('url_seo');
 		$page->activo = Input::get('activo');
 		$page->mostrar_menu = Input::get('mostrar_menu');
+		$page->padre = Input::get('padre');
 
 
 		$page->save();
