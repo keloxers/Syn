@@ -144,7 +144,7 @@ foreach ($pagestops as $pagestop) {
 		<?php
 				$pages = DB::table('pages')
 													->where('activo', '=', 'si')
-													->where('padre', '=', 'institucional')
+													->where('padre', '=', $pagestop->page)
 													->where('mostrar_menu', '=', 'si')
 													->orderBy('page', 'asc')->get();
 				if (count($pages)) {
