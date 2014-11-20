@@ -296,7 +296,10 @@ foreach ($pagestops as $pagestop) {
 					</h6>
 
 					<p>
-						{{trans('app.contacto')}}
+						+54 0376 439326<br>
+						+54 0376 154670338<br>
+						+54 0376 154670105<br>
+						+54 0376 154670157<br>
 					</p>
 
 				</div>
