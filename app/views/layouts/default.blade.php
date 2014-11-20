@@ -264,7 +264,7 @@ foreach ($pagestops as $pagestop) {
 				<div class="pi-icon-box-vertical pi-text-center">
 
 					<div class="pi-icon-box-icon pi-icon-box-icon-base">
-						<i class="icon-email"></i>
+						<i class="icon-mail"></i>
 					</div>
 
 					<h6 class="pi-margin-bottom-20 pi-weight-700 pi-uppercase pi-letter-spacing">
@@ -272,7 +272,9 @@ foreach ($pagestops as $pagestop) {
 					</h6>
 
 					<p>
-
+						gerencia@synmisiones.com<br>
+						comercial@synmisiones.com<br>
+						tecnico@synmisiones.com<br>
 					</p>
 
 				</div>
