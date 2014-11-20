@@ -264,15 +264,15 @@ foreach ($pagestops as $pagestop) {
 				<div class="pi-icon-box-vertical pi-text-center">
 
 					<div class="pi-icon-box-icon pi-icon-box-icon-base">
-						<i class="icon-location"></i>
+						<i class="icon-email"></i>
 					</div>
 
 					<h6 class="pi-margin-bottom-20 pi-weight-700 pi-uppercase pi-letter-spacing">
-						Dirección
+						Emails
 					</h6>
 
 					<p>
-						{{trans('app.direccion')}}
+
 					</p>
 
 				</div>
@@ -314,7 +314,7 @@ foreach ($pagestops as $pagestop) {
 					<h6 class="pi-margin-bottom-20 pi-weight-700 pi-uppercase pi-letter-spacing">
 						Seguinos
 					</h6>
-
+					<p>{{trans('app.direccion')}}</p>
 					<ul class="pi-social-icons pi-round pi-jump pi-clearfix">
 						<li><a href="{{trans('app.seguinos_facebook')}}" class="pi-social-icon-facebook"><i class="icon-facebook"></i></a></li>
 						<li><a href="{{trans('app.seguinos_twitter')}}" class="pi-social-icon-twitter"><i class="icon-twitter"></i></a></li>
