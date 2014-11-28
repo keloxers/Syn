@@ -60,7 +60,7 @@
 				</p>
 
 				<p>
-					<span class="pi-dropcap">N</span>{{$articulo->texto}}
+					<span class="pi-dropcap"></span>{{$articulo->texto}}
 				</p>
 
 
