@@ -16,7 +16,7 @@ return array(
 
 	'email'		=>	"<strong>comercial@synmisiones.com</strong>",
 
-	'telefono'		=>	"<strong>0376 439326</strong>",
+	'telefono'		=>	"<strong>03764 439326</strong>",
 
 	'seguinos_facebook'		=>	"https://facebook.com/pages/SN-Servicios/1564714993750159?ref=hl S&N Servicios",
 
