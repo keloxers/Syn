@@ -16,7 +16,7 @@ return array(
 
 	'email'		=>	"<strong>comercial@synmisiones.com</strong>",
 
-	'telefono'		=>	"<strong>03764 439326</strong>",
+	'telefono'		=>	"<strong>+54 0376 4439326</strong>",
 
 	'seguinos_facebook'		=>	"https://facebook.com/pages/SN-Servicios/1564714993750159?ref=hl S&N Servicios",
 
@@ -30,7 +30,7 @@ return array(
 
 	'direccion'		=>	"Posadas, Misiones AR",
 
-	'contacto'		=>	"0054 (3764) 439326 <br><a href='mailto:info@synmisiones.com'>info@synmisiones.com</a>",
+	'contacto'		=>	"+54 0376 4439326 <br><a href='mailto:info@synmisiones.com'>info@synmisiones.com</a>",
 
 	'title_food' => "S&N Misiones",
 
