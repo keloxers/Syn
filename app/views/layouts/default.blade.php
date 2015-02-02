@@ -88,7 +88,7 @@
 <!-- End logo -->
 
 <!-- Text -->
-<div class="pi-header-block pi-header-block-txt pi-hidden-2xs">Especialisialistas en Consultoria de Gestión</div>
+<div class="pi-header-block pi-header-block-txt pi-hidden-2xs"></div>
 <!-- End text -->
 
 <!-- Menu -->
